@@ -1,5 +1,11 @@
-![](https://komarev.com/ghpvc/?username=koyo343)
+![github view](https://komarev.com/ghpvc/?username=koyo343)
 
+ ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+<!-- -🧑‍💻 I'm a backend engineer.-->
+- 🌱 I’m currently learning golang
+- 📫 How to reach me: [Twitter - @koyo330](https://twitter.com/koyo330)
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -8,7 +14,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyo343&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![github-contribution-grid-snake](https://raw.githubusercontent.com/koyo343/koyo343/master/img/snake.svg) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyo343&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=koyo343&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!--![contribute](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyo343&theme=transparent)-->
+![commit lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koyo343&theme=transparent)
+![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koyo343&theme=transparent&utcOffset=9)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=koyo343&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyo343&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=koyo343&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![snake](https://raw.githubusercontent.com/koyo343/koyo343/output/github-contribution-grid-snake.svg)
+
