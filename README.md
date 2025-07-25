@@ -15,8 +15,6 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
 <!--![contribute](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyo343&theme=transparent)-->
-![commit lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koyo343&theme=transparent)
-![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koyo343&theme=transparent&utcOffset=9)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=koyo343&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyo343&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
